@@ -1,0 +1,418 @@
+
+body{
+    overflow-x: hidden;
+}
+
+.main{
+    background-color: black;
+    height: 80vh;
+    width: 97.85vw;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+
+}
+#btlogo{
+   margin-top: 2vh;
+   margin-left: 2vw;
+
+}
+
+#mainimg{
+
+   margin-top: 2vh;
+   margin-left: 10vw;
+
+    height:50vh ;
+    width:20vw ;
+}
+
+.continfo{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 65vw;
+}
+
+.cont{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 10vh;
+}
+
+.helps{
+   
+   margin-top: 2vh;
+   margin-left: 6vw;
+
+}
+
+#help{
+    margin-left: 2vw;
+    color: white;
+    font-weight: 400;
+}
+
+.button{
+    
+    margin-top: 2vh;
+    margin-left: 25vw;
+}
+
+#shop{
+    background-color:rgb(59, 61, 62);
+    color: white;
+    height:5vh ;
+    width: 4vw ;
+    border-radius: 5px;
+    font-weight: 300;
+}
+
+.info{
+
+    display: flex;
+    flex-direction: column;
+    background-color:black;
+    height: 90vh;
+
+}
+
+.onear{
+
+    margin-left: 10vw;
+    margin-top: 1vh;
+}
+
+.info1{
+    margin-left: 10vw;
+   
+   
+}
+
+#beats{
+    color:white;
+}
+
+
+.info2{
+    margin-left: 10vw;
+}
+
+#para1{
+    color: white;
+}
+
+.info3{
+    margin-left: 10vw;
+}
+
+#para2{
+    color: white;
+}
+
+.cart{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(59, 61, 62);
+    width: 15vw;
+    margin-left:10vw ;
+    margin-top: 2vh;
+}
+
+#bagimg{
+    height:4vh ;
+    width: 2vw;
+    margin-top: 2vh;
+    margin-left:2vw ;
+}
+
+#p1{
+    color: white;
+    margin-left: 1vw;
+}
+
+#p2{
+    color: white;
+   margin-left: 0.2vw;
+    font-weight: 1000;
+}
+
+.main2{
+    background-color:black;
+    height: 100vh;
+}
+
+.compn{
+  display: flex;
+  justify-content: space-between;
+
+}
+#compny{
+
+    margin-left: 2vw;
+    margin-right: 8vw;
+   }
+
+.specs{
+   
+    padding-left: 40vw;
+    margin-top: 3vh;
+  } 
+
+.details{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4vh;
+}
+
+.det1{
+  margin-left: 34vw;
+
+}
+
+.det2{
+    margin-left: 29vw;
+  
+  }
+
+.det3{
+    margin-left: 29vw;
+  
+  }
+
+.det4{
+    margin-left: 34vw;
+  
+  }
+
+#about{
+    color: white;
+}  
+
+.main3{
+
+    background-color: black;
+}
+
+.case{
+    margin-left: 37vw;
+}
+
+.caseexp{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4vh;
+}
+
+#caseimg{
+    margin-top: 2vh;
+    margin-left: 29vw;
+}
+
+.caseinfo{
+    margin-top: 20vh;
+    margin-left: 3vw;
+}
+
+.moreinfo{
+    display: flex;
+    background-color:rgb(59, 61, 62);
+    border-radius: 8px;
+    
+}
+
+#grpimg{
+    margin-left: 2vw;
+    height: 4vh;
+    margin-top: 2vh;
+}
+
+#morinf{
+    margin-left: 1vw;
+    color: white;
+}
+
+.main4{
+    background-color: rgb(59, 61, 62);
+    height: 60vh;
+   
+}
+
+.buysection{
+    display: flex;
+    margin-left: 20vw;
+   
+}
+
+#deal1{
+    color: white;
+    margin-top: 12vh;
+}
+#deal2{
+    color: white;
+}
+
+.buynow{
+    display: flex;
+   background-color: black;
+   width: 8vw;
+   border-radius: 8px;
+}
+
+#deal3{
+    color: white;
+
+}
+#bagimg2{
+    height: 3vh;
+    margin-top: 2vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.buyimg{
+    margin-top: 8vh;
+    margin-left: 3vw;
+}
+
+.main5{
+    background-color: black;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+.blkrdinfo{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw;
+
+}
+
+
+#bkinfo{
+    color: white;
+}
+#redinfo{
+    color: white;
+}
+
+#blkimg{
+    margin-right: 8vw;
+}
+.blackinfo{
+    display: flex;
+}
+
+#bagimg3{
+    height: 3vh;
+    margin-top: 3vh;
+   margin-left: 2vw;
+}
+
+.redinfo{
+    display: flex;
+}
+
+.yelinfo{
+    display: flex;
+}
+
+.blueinfo{
+    display: flex;
+}
+
+#nightblkimg{
+    margin-right: 8vw;
+}
+
+#ylinfo{
+    color: white;
+}
+
+#bluinfo{
+    color: white;
+}
+
+.yelblueinfo{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw;
+
+}
+
+.greyinfo{
+    display: flex;
+}
+
+#twiinfo{
+    color: white;
+}
+
+.main6{
+    background-color: black;
+}
+
+.beatlogo2{
+    margin-left: 2vw;
+    margin-top:2vh;
+}
+
+.generals{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.ReachUs{
+    display: flex;
+    flex-direction: column;
+}
+
+.connect{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(59, 61, 62);
+}
+
+.mail{
+    margin-top:2vh ;
+    margin-left:2vw ;
+    margin-right: 2vw;
+}
+
+.subscribe{
+    display: flex;
+    background-color: black;
+    height:6vh ;
+    width: 8vw;
+    margin-top: 1vh;
+    margin-right: 1vw;
+    margin-bottom: 1vh;
+}
+
+#arrow{
+    height: 3vh;
+    margin-top: 2vh;
+    margin-right: 1vw;
+    margin-left: 1vw;
+}
+
+#subs{
+    margin-right: 2vw;
+    color: white;
+}
+
+#items{
+    color: white;
+}
+
+#prods{
+    color: white;
+}
